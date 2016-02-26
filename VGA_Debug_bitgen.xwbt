@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/dan/Lab4/VGA_Debug.ncd
+OUTFILE=/home/dan/Lab4/VGA_Debug.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=/home/dan/Lab4
+LICENSE=WebPack
+USER_INFO=211148512_0_0_570

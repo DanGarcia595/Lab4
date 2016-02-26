@@ -1,0 +1,36 @@
+AR debug_ram debug_ram_a /home/dan/Lab4/ipcore_dir/DEBUG_RAM.vhd sub00/vhpl34 1456519304
+EN vga_debug NULL "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/vga_debug.vhd" sub00/vhpl20 1456519307
+AR vga_buffer_ram vga_buffer_ram_a /home/dan/Lab4/ipcore_dir/VGA_BUFFER_RAM.vhd sub00/vhpl12 1456519296
+AR alu structural "/home/dan/ECE368-Lab/Lab 2/ALU/alu_toplevel.vhd" sub00/vhpl32 1456519302
+AR arith_unit combinational "/home/dan/ECE368-Lab/Lab 2/ALU/alu_arithmetic_unit.vhd" sub00/vhpl22 1456519274
+AR load_store_unit behavioral "/home/dan/ECE368-Lab/Lab 2/ALU/load_store_unit.vhd" sub00/vhpl28 1456519280
+EN data_decode NULL "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/data_decoder.vhd" sub00/vhpl18 1456519305
+EN vga_buffer_ram NULL /home/dan/Lab4/ipcore_dir/VGA_BUFFER_RAM.vhd sub00/vhpl11 1456519295
+AR vga_debug structural "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/vga_debug.vhd" sub00/vhpl35 1456519308
+AR rgb behavioral "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/rgb.vhd" sub00/vhpl06 1456519290
+EN debounce NULL "/home/dan/ECE368-Lab/Lab 2/Button/debounce.vhd" sub00/vhpl15 1456519283
+AR alu_mux combinational "/home/dan/ECE368-Lab/Lab 2/ALU/alu_mux.vhd" sub00/vhpl30 1456519282
+EN clk_25mhz NULL "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/clk25MHz.vhd" sub00/vhpl01 1456519285
+AR debounce logic "/home/dan/ECE368-Lab/Lab 2/Button/debounce.vhd" sub00/vhpl16 1456519284
+AR vga_controller behavioral "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/vga_controller.vhd" sub00/vhpl04 1456519288
+AR logic_unit combinational "/home/dan/ECE368-Lab/Lab 2/ALU/alu_logic_unit.vhd" sub00/vhpl24 1456519276
+AR buttoncontrol structural "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/button_controller.vhd" sub00/vhpl17 1456519300
+EN load_store_unit NULL "/home/dan/ECE368-Lab/Lab 2/ALU/load_store_unit.vhd" sub00/vhpl27 1456519279
+AR vga_driver structural "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/vga_driver.vhd" sub00/vhpl13 1456519298
+EN arith_unit NULL "/home/dan/ECE368-Lab/Lab 2/ALU/alu_arithmetic_unit.vhd" sub00/vhpl21 1456519273
+EN logic_unit NULL "/home/dan/ECE368-Lab/Lab 2/ALU/alu_logic_unit.vhd" sub00/vhpl23 1456519275
+EN vga_driver NULL "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/vga_driver.vhd" sub00/vhpl00 1456519297
+EN alu_shift_unit NULL "/home/dan/ECE368-Lab/Lab 2/ALU/alu_shift_unit.vhd" sub00/vhpl25 1456519277
+AR data_decode structural "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/data_decoder.vhd" sub00/vhpl19 1456519306
+AR font_rom arch "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/font_rom_ascii.vhd" sub00/vhpl10 1456519294
+AR alu_shift_unit combinational "/home/dan/ECE368-Lab/Lab 2/ALU/alu_shift_unit.vhd" sub00/vhpl26 1456519278
+EN font_rom NULL "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/font_rom_ascii.vhd" sub00/vhpl09 1456519293
+EN debug_ram NULL /home/dan/Lab4/ipcore_dir/DEBUG_RAM.vhd sub00/vhpl33 1456519303
+EN buttoncontrol NULL "/home/dan/ECE368-Lab/Lab 4/VGA_Debug/button_controller.vhd" sub00/vhpl14 1456519299
+EN vga_controller NULL "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/vga_controller.vhd" sub00/vhpl03 1456519287
+EN alu_mux NULL "/home/dan/ECE368-Lab/Lab 2/ALU/alu_mux.vhd" sub00/vhpl29 1456519281
+AR clk_25mhz behavioral "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/clk25MHz.vhd" sub00/vhpl02 1456519286
+EN mux8to1 NULL "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/mux8to1.vhd" sub00/vhpl07 1456519291
+EN rgb NULL "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/rgb.vhd" sub00/vhpl05 1456519289
+EN alu NULL "/home/dan/ECE368-Lab/Lab 2/ALU/alu_toplevel.vhd" sub00/vhpl31 1456519301
+AR mux8to1 behavioral "/home/dan/ECE368-Lab/Lab 3/VGA Part 2/mux8to1.vhd" sub00/vhpl08 1456519292
